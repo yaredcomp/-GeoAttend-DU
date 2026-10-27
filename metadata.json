@@ -1,0 +1,6 @@
+{
+  "name": "GeoAttend DU",
+  "description": "Smart Geofenced Biometric Attendance Management System for Dilla University Students",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
